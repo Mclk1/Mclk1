@@ -1,4 +1,4 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
 <h3 align="center">A passionate big data engineer from Türkiye</h3>
 
