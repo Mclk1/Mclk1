@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammet</h1>
-<h3 align="center">A passionate big data engineer from Türkiye</h3>
-
-- 🌱 I’m currently learning **Google Cloud Learning Services, Auto ML Services, Big Data Tools, Python, Java**
-
 - 📝 I regularly write articles on [https://medium.com/@muhammed.celikas](https://medium.com/@muhammed.celikas)
 
 - 📫 How to reach me **muhammed.celik@msn.com**
