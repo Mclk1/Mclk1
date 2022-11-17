@@ -2,6 +2,8 @@
 
 - 📫 How to reach me **muhammed.celik@msn.com**
 
+- 📫 my linkedin https://www.linkedin.com/in/muhammet-celik/
+
 - 📄 Know about my experiences [https://www.canva.com/design/DAE6wp89YFE/CmE7Zp6aXP7C42J0giESDw/view?utm_content=DAE6wp89YFE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE6wp89YFE/CmE7Zp6aXP7C42J0giESDw/view?utm_content=DAE6wp89YFE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
